@@ -503,12 +503,12 @@ footer a:hover {
 .early-access-button {
   border-radius: 1px;
   height: 40px;
-  line-height: 7px;
+  line-height: 8px;
   color: #ffffff;
-  width: 258px;
+  width: 270px;
   padding: 14px;
   position: relative;
-  left: 1px;
+  left: 0.5px;
 }
 
 /**footer**/
